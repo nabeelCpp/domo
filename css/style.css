@@ -213,7 +213,7 @@ section {
 	position: relative;
 	overflow: hidden;
 	width: 100%;
-	background: #080a30;
+	background: #00062b;
 }
 .text-shadow {
 	text-shadow: 3px 0px 5px rgba(0,0,0,0.5);
@@ -1340,7 +1340,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	font-size: 14px;
 }
 .light-bg {
-	background: #080a30 !important;
+	background: #00062b !important;
 }
 /*=======================================================
       Awards
@@ -1489,6 +1489,37 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	padding: 0 10px;
 }
 .parthner li img {
+	max-width: 100%;
+}
+
+.parthner-links {
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 30px;
+}
+.parthner-links ul {
+	margin: 0 -10px;
+}
+.parthner-links li a {
+	display: inline-block;
+	opacity: 0.7;
+}
+.parthner-links h6 {
+	font-weight: 600;
+	color: #fff;
+	margin-bottom: 30px;
+}
+.parthner-links li a:hover {
+	opacity: 1;
+}
+.parthner-links li {
+	width: 12%;
+	float: left;
+	margin-bottom: 20px;
+	/*padding: 0 10px;*/
+	padding-right: 30px;
+}
+.parthner-links li img {
 	max-width: 100%;
 }
 /*=======================================================
@@ -1816,7 +1847,7 @@ a:hover {
 }
 
 #download {
-	background-image: url(../image/downloadbg1.png);
+	background-image: url(../image/downloadbg.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-color: #001a34;
@@ -1826,14 +1857,21 @@ a:hover {
 	background-image: url(../image/wavebg.png);
 	background-size: contain;
 	background-repeat: no-repeat;
-	background-color: #001a34;
+	background-color: #00062b;
+}
+
+#history {
+	background-image: url(../image/historybg.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: #00062b;
 }
 
 .butn {
 	border: none;
 	color: #fff;
 	display: inline-block;
-	padding: 12px 40px;
+	padding: 40px;
 	text-transform: uppercase;
 	font-weight: 600;
 	font-size: 14px;
@@ -1849,8 +1887,7 @@ a:hover {
 }
 
 .partners {
-	background: #05121e;
-	padding: 5px;
+	border: 1px solid #049eb6;
 }
 
 #container-water {

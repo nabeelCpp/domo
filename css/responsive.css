@@ -217,6 +217,9 @@ header .search-nav ul.dropdown {
 .parthner li{
 	width:25%;
 }
+.parthner-links li{
+	width:25%;
+}
 .top-info-con {
 	width: 100%;
 	margin-bottom: 20px;
@@ -737,6 +740,9 @@ header{
 .parthner li a{
 	opacity:1;
 }
+.parthner-links li a{
+	opacity:1;
+}
 .simple-head h1{
 	font-size:30px;
 }
@@ -757,6 +763,10 @@ header{
 	text-align:center !important;
 }
 .parthner li{
+	width:50%;
+	margin-bottom:20px;
+}
+.parthner-links li{
 	width:50%;
 	margin-bottom:20px;
 }
@@ -870,6 +880,10 @@ header .navbar li a{
 	text-align:center;
 }
 .parthner{
+	text-align:center;
+}
+
+.parthner-links{
 	text-align:center;
 }
 header .navbar li a{
