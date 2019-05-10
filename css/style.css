@@ -947,6 +947,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	background: #080a30;
 	background-size: contain;
 	background-image: url(../image/header.png);
+	background-repeat: no-repeat;
 	/*padding-bottom: 50px*/
 }
 .simple-head {
