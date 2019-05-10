@@ -37,6 +37,7 @@ div.ldr:before, div.ldr:after {
 	top: calc(50% - 3vmax);
 	left: calc(50% - 3vmax);
 	border-left: 3px solid #0b0c22;
+	background-image: url(../image/log symbol.png);
 	border-radius: 100%;
 	-webkit-animation: spinLeft 800ms linear infinite;
 	animation: spinLeft 800ms linear infinite;

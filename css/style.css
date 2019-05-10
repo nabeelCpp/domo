@@ -1489,7 +1489,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	padding: 0 10px;
 }
 .parthner li img {
-	max-width: 100%;
+	max-width: 200%;
 }
 
 .parthner-links {
@@ -1970,3 +1970,9 @@ a:hover {
     /*border-radius: 10px;*/
     background-repeat: no-repeat;
 }
+
+/*.glow {
+	 -webkit-filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+     filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
+}*/
+
