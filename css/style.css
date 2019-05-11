@@ -1545,9 +1545,9 @@ footer .rights a {
 	margin-left: 15px;
 }
 footer .rights {
-	border-top: 1px solid rgba(255,255,255,0.1);
-	padding-top: 15px;
-	background: rgba(0,0,0,0.1);
+	/*border-top: 1px solid rgba(255,255,255,0.1);*/
+	/*padding-top: 15px;*/
+	/*background: rgba(0,0,0,0.1);*/
 }
 footer .rights a:hover {
 	color: #fff;
@@ -1858,14 +1858,14 @@ a:hover {
 	background-image: url(../image/wavebg.png);
 	background-size: contain;
 	background-repeat: no-repeat;
-	background-color: #00062b;
+	background-color: #080a30;
 }
 
 #history {
 	background-image: url(../image/historybg.png);
 	background-size: contain;
 	background-repeat: no-repeat;
-	background-color: #00062b;
+	background-color: #080a30;
 }
 
 .butn {
