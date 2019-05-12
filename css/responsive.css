@@ -964,6 +964,13 @@ header .navbar li a:before{
 		background-repeat: no-repeat;
 		background-color: #001a34;
 	}
+	#history {
+		background-image: url(../image/historybg.png);
+		background-position: center;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-color: #080a30;
+	}
 
 }
 @media(max-width:440px) {
