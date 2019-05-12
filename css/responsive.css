@@ -882,6 +882,9 @@ header .navbar li a{
 .parthner{
 	text-align:center;
 }
+.parthner li img {
+	max-width: 100%;
+}
 
 .parthner-links{
 	text-align:center;
