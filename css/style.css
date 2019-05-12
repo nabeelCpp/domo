@@ -1363,7 +1363,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	margin-bottom: 50px;
 	min-height: 150px;
 	border-bottom: 1px solid rgba(0,0,0,0.1);
-	padding-right: 50px;
+	/*padding-right: 50px;*/
 }
 .road-map .edu-list li:nth-last-child(1) {
 	margin-bottom: 0px;
