@@ -198,7 +198,7 @@ header .search-nav ul.dropdown {
     flex: 0 0 50%;
     max-width: 50%;
 }
-.main-half-layout-container{
+.main-half-layout-coverer{
 	padding:80px 50px;
 	text-align:center;
 }
@@ -253,7 +253,7 @@ header .ownmenu ul.dropdown {
 	margin-top: 0px;
 	top: 0px;
 }
-.procsss .container {
+.procsss .coverer {
 	width: 100%;
 }
 .procsss ul {
@@ -436,7 +436,7 @@ header .logo {
 	overflow: hidden;
 }
 
-header .container{
+header .coverer{
 	position:relative;
 }
 .why-choose .col-md-7.margin-top-60 {
@@ -619,7 +619,7 @@ footer h6 {
 .distri{
 	text-align:center;
 }
-.main-half-layout-container.half_right_layout{
+.main-half-layout-coverer.half_right_layout{
 	width: 100%;
 	margin: 0px;
 }
@@ -670,7 +670,7 @@ header .navbar li a:before{
 .road-map .edu-list li:nth-last-child(1){
 	border-bottom:0px;
 }
-.container{
+.coverer{
 	position:relative;
 }
 .simple-head .position-center-center{
@@ -709,7 +709,7 @@ section.why-choose .col-md-7.margin-top-60{
 	width:100%;
 	position:relative;
 }
-.main-half-layout-container{
+.main-half-layout-coverer{
 	width:100%;
 	padding:100px 15px;
 	margin:0px;
@@ -936,7 +936,7 @@ header .navbar li a:before{
 	margin:0px; 
 	margin-bottom: 15px;
 }
-.road-map .container-fluid{
+.road-map .coverer-fluid{
 	padding: 0 15px;
 }
 .team.style-2 .team-small li{
@@ -953,7 +953,7 @@ header .navbar li a:before{
 	#particles-js {
 		width: 100%;
 		background: #080a30;
-		background-size: contain;
+		background-size: cover;
 		background-position: center;
 		background-image: url(../image/header.png);
 		background-repeat: no-repeat;
@@ -962,14 +962,14 @@ header .navbar li a:before{
 	#about {
 		background-image: url(../image/aboutbg.png);
 		background-position: center;
-		background-size: contain;
+		background-size: cover;
 		background-repeat: no-repeat;
 	}
 
 	#download {
 		background-image: url(../image/downloadbg-sm.png);
 		background-position: center;
-		background-size: contain;
+		background-size: cover;
 		background-repeat: no-repeat;
 		background-color: #001a34;
 	}
@@ -983,7 +983,7 @@ header .navbar li a:before{
 	#partners {
 		background-image: url(../image/wavebg.png);
 		background-position: center;
-		background-size: contain;
+		background-size: cover;
 		background-repeat: no-repeat;
 		background-color: #080a30;
 	}
