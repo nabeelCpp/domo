@@ -950,10 +950,19 @@ header .navbar li a:before{
 }
 }
 @media(max-width:540px) {
+	#particles-js {
+		width: 100%;
+		background: #080a30;
+		background-size: contain;
+		background-position: center;
+		background-image: url(../image/header.png);
+		background-repeat: no-repeat;
+		/*padding-bottom: 50px*/
+	}
 	#about {
 		background-image: url(../image/aboutbg.png);
 		background-position: center;
-		background-size: cover;
+		background-size: contain;
 		background-repeat: no-repeat;
 	}
 
@@ -966,6 +975,13 @@ header .navbar li a:before{
 	}
 	#history {
 		background-image: url(../image/historybg.png);
+		background-position: center;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-color: #080a30;
+	}
+	#partners {
+		background-image: url(../image/wavebg.png);
 		background-position: center;
 		background-size: contain;
 		background-repeat: no-repeat;
