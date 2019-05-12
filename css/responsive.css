@@ -789,7 +789,7 @@ header .navbar li a{
 .navbar-toggler {
 	position: absolute;
 	top:17px;
-	right: 175px;
+	right: 100px;
 	height: 50px;
 	width: 50px;
 	padding: 0px;
