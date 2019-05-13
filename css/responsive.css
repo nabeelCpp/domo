@@ -568,14 +568,14 @@ footer h6 {
 .navbar-toggler {
 	position: absolute;
 	top: 16px;
-	right: 15px;
+	/*right: 15px;*/
 	height: 50px;
 	width: 50px;
 	padding: 0px;
 	margin: 0px;
-	color: #000;
+	color: #fff;
 	text-align: center;
-	background: #fff;
+	background: #f37435;
 }
 .navbar-toggler span {
 	height: 2px;
