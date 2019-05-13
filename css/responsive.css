@@ -96,6 +96,10 @@
 .sub-space {
 	padding-left: 0px;
 }
+
+.parthner li img {
+	max-width: 100%;
+}
 }
 @media(min-width:992px) and (max-width:1199px) {
 .top-info-con ul li {
