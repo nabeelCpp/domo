@@ -790,6 +790,7 @@ header{
 .parthner-links li{
 	width:50%;
 	margin-bottom:20px;
+	min-height:150px;
 }
 .dev-activ ul li.col{
 	margin-bottom:20px;
@@ -1015,4 +1016,9 @@ header .navbar li a:before{
 @media(max-width:320px) {
 }
 @media(max-height: 700px) {
+}
+@media  (max-width: 640px) {
+li.d-none.d-sm-block.d-xs-block {
+    display: none !important;
+}
 }
